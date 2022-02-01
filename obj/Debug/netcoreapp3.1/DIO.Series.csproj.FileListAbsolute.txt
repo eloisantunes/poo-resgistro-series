@@ -1,0 +1,3 @@
+/home/e/Documentos/DIO/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.csprojAssemblyReference.cache
+/home/e/Documentos/DIO/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.AssemblyInfoInputs.cache
+/home/e/Documentos/DIO/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.AssemblyInfo.cs
